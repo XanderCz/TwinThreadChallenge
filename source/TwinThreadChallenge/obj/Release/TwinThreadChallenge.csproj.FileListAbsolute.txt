@@ -1,0 +1,11 @@
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\bin\Release\TwinThreadChallenge.exe.config
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\bin\Release\TwinThreadChallenge.exe
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\bin\Release\TwinThreadChallenge.pdb
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\bin\Release\NDesk.Options.dll
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\bin\Release\Newtonsoft.Json.dll
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\bin\Release\Newtonsoft.Json.xml
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\obj\Release\TwinThreadChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\obj\Release\TwinThreadChallenge.csproj.CopyComplete
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\obj\Release\TwinThreadChallenge.exe
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\obj\Release\TwinThreadChallenge.pdb
+C:\Users\Xander\source\repos\TwinThreadChallenge\TwinThreadChallenge\obj\Release\TwinThreadChallenge.csprojAssemblyReference.cache
