@@ -10,7 +10,9 @@ Download the release package from Github. The project is a Command Line program,
 ### Usage
 
 If run without any tags, the program will simply download the asset file and then wait for keypress to exit.
+
 Tags:
+
 	-s= | -search= : your search terms. Format is -s=field:SearchValue. If using multiple property search, format is -s="field1:SearchValue1 field2:SearchValue2"
 		Field is never case sensitive, but SeachValue is.
 		Search supports wildcard search with a single wildcard only. Wildcard may appear anywhere within the search value.
